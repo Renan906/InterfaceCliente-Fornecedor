@@ -27,7 +27,7 @@ public class Cliente {
     public String obterCpf(){
         return cpf;
     }
-    public void atualizarNome(String nome){
+    public void atualizarNome(String nome){ 
         this.nome = nome;
 }
     public void atualizarTelefone(String telefone){
